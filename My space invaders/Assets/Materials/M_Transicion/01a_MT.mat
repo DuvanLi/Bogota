@@ -61,7 +61,7 @@ Material:
     - _Blend: 0
     - _BumpScale: 1
     - _Cull: 2
-    - _Curtain: 1
+    - _Curtain: 0
     - _Cutoff: 0.5
     - _DstBlend: 0
     - _EnvironmentReflections: 1
@@ -69,7 +69,7 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _InOut: 0.35
+    - _InOut: 1
     - _Invert: 0
     - _Metallic: 0
     - _OcclusionStrength: 1
@@ -84,7 +84,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-    - _Color: {r: 0.47058824, g: 0.11764706, b: 0.11764706, a: 1}
+    - _Color: {r: 0.06666667, g: 0.06666667, b: 0.06666667, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
 --- !u!114 &5302761710846358234

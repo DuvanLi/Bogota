@@ -6,8 +6,10 @@ public class ChangeScene : MonoBehaviour
 {
     public TCE tce;
 
-    public void ChangeTheScene()
+    public void ChangeTheScene(string sceneName)
     {
+    tce._escenaSiguiente = sceneName;
         tce._pasarEscena = true;
     }
+    
 }

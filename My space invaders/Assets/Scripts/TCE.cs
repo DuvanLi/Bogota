@@ -196,10 +196,11 @@ public class TCE : MonoBehaviour
         }
 
         else if (_sinInicio == false && _permitirInicio && _fade == 0)
+            
         {
             if (_tI < 1)
             {
-                float _linealInicio = Mathf.Lerp(1, 0, _tI);
+                float _linealInicio = Mathf.Lerp(1, -0.1f, _tI);
 
                 _renderer.material.SetFloat("_Curtain", _linealInicio);
 
