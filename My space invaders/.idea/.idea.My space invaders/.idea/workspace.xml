@@ -2,88 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f70cf800-51d9-4ac2-96e9-a6ffa4f943c3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/M_Transicion/00ab_MT.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/M_Transicion/00ab_MT.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/M_Transicion/01a_MT.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/M_Transicion/01a_MT.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/M_Transicion/02a_MT.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/M_Transicion/02a_MT.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/M_Transicion/02b_MT.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/M_Transicion/02b_MT.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ChangeScene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ChangeScene.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TCE.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TCE.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.My space invaders/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My space invaders/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.My space invaders/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My space invaders/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.My space invaders/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My space invaders/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeScene.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <marker date="1574199922115" expanded="false" signature="6:78" ph="..." />
-                <marker date="1574199922115" expanded="true" signature="120:282" ph="{...}" />
-                <marker date="1574199922115" expanded="true" signature="192:275" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TCE.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="193" column="40" lean-forward="true" selection-start-line="193" selection-start-column="40" selection-end-line="193" selection-end-column="40" />
-              <folding>
-                <marker date="1574200571799" expanded="false" signature="37:84" ph="..." />
-                <marker date="1574200571799" expanded="true" signature="118:6833" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="1377:1992" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="1407:1986" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="1487:1551" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="1568:1671" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="1875:1976" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="2119:2374" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="2492:2791" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="2607:2658" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="2716:2785" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="2910:3854" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="3116:3163" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="3304:3358" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="3427:3481" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="3521:3577" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="3625:3679" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="3718:3773" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="3802:3848" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="3984:5012" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="4048:4481" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="4083:4340" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="4357:4471" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="4566:5006" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="4601:4864" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="4881:4996" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="5133:5227" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="5258:5298" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="5426:6829" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="5482:6823" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="5793:6291" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="5836:6114" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="6135:6277" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="6309:6812" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="6352:6632" ph="{...}" />
-                <marker date="1574200571799" expanded="true" signature="6654:6798" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -108,29 +37,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="728" />
-  </component>
+  <component name="ProjectId" id="1TvubLFFeZR9Q9B8tn8aAN0TLQe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="UnityExplorer" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-        <option name="show-project-names" value="true" />
-      </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
@@ -177,56 +85,29 @@
       <option name="presentableId" value="Default" />
       <updated>1574194826258</updated>
       <workItem from="1574194853602" duration="2798000" />
+      <workItem from="1574352983365" duration="372000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2798000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25056946" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Performance Profiler" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -236,65 +117,6 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeScene.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <marker date="1574199922115" expanded="false" signature="6:78" ph="..." />
-            <marker date="1574199922115" expanded="true" signature="120:282" ph="{...}" />
-            <marker date="1574199922115" expanded="true" signature="192:275" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TCE.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="193" column="40" lean-forward="true" selection-start-line="193" selection-start-column="40" selection-end-line="193" selection-end-column="40" />
-          <folding>
-            <marker date="1574200571799" expanded="false" signature="37:84" ph="..." />
-            <marker date="1574200571799" expanded="true" signature="118:6833" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="1377:1992" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="1407:1986" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="1487:1551" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="1568:1671" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="1875:1976" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="2119:2374" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="2492:2791" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="2607:2658" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="2716:2785" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="2910:3854" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="3116:3163" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="3304:3358" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="3427:3481" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="3521:3577" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="3625:3679" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="3718:3773" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="3802:3848" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="3984:5012" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="4048:4481" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="4083:4340" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="4357:4471" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="4566:5006" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="4601:4864" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="4881:4996" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="5133:5227" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="5258:5298" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="5426:6829" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="5482:6823" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="5793:6291" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="5836:6114" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="6135:6277" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="6309:6812" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="6352:6632" ph="{...}" />
-            <marker date="1574200571799" expanded="true" signature="6654:6798" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
